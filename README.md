@@ -26,3 +26,6 @@ Third-year Computer Engineering student passionate about software development, g
 - Pursuing a B.Sc. in Computer Engineering
 - Expanding my knowledge through academic and personal projects
 - Seeking opportunities to gain hands-on industry experience
+
+
+  **## CHECK AGAIN SOON!**
