@@ -29,4 +29,4 @@ Third-year Computer Engineering student passionate about software development, g
 
 ##
 
-  **## CHECK AGAIN SOON!**
+  **CHECK AGAIN SOON!**
