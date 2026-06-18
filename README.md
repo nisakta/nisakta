@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm [Hayrunnisa Aktaş]
 
-<!--
-**nisakta/nisakta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year Computer Engineering student passionate about software development, game development, data structures, and algorithms.
 
-Here are some ideas to get you started:
+## Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Software Development
+- Data Structures & Algorithms
+- Database Systems
+- Application Development
+- Game Development
+
+## Technical Skills
+
+- C
+- C++
+- C#
+- Java
+- JavaScript
+- SQL
+- Assembly
+- HTML & CSS
+
+## Currently
+
+- Pursuing a B.Sc. in Computer Engineering
+- Expanding my knowledge through academic and personal projects
+- Seeking opportunities to gain hands-on industry experience
